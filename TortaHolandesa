@@ -1,0 +1,29 @@
+ <!DOCTYPE html>
+  <html>
+
+  <head>
+      <link rel="stylesheet" href="style.css" />
+      <title>Torta Holandesaa</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css"/>
+</head>
+
+  <body id="corpo">
+      <h1 class="titulo">TORTA HOLANDESA</h1>
+
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/QCEX1hKVXA8" title="Batatinha" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+      <p id="ingrediente">Ingredientes</p>
+      <ul id="ingredientes">
+          <li>200 g de manteiga sem sal</li>
+          <li>1 xícara de (chá) de açúcar</li>
+          <li>1/2 lata de leite condensado</li>
+          <li>1 colher (sopa)de essência baunilha</li>
+          <li>1 pacote de biscoito maisena (200 g)</li>
+          <li>200 g de chocolate meio amargo derretido</li>
+          <li>1 colher (sobremesa)de margarina sem sal</li>
+          <li>1 lata de creme de leite</li>
+          <li>1 pacote de biscoito com cobertura de chocolate ao leite tipo calipso (130 g)</li>
+      </ul>
+
+</body>
+
+  </html>
