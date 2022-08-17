@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+  <html>
+
+  <head>
+      <link rel="stylesheet" href="style.css" />
+      <title>Capuccino Caseiro</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css"/>
+</head>
+
+  <body id="corpo">
+      <h1 class="titulo">CAPUCCINO CASEIRO</h1>
+
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/QCEX1hKVXA8" title="Batatinha" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+      <p id="ingrediente">Ingredientes</p>
+      <ul id="ingredientes">
+          <li>1 lata de leite Ninho</li>
+          <li>6 colheres de chocolate em pó (não pode ser achocolatado)</li>
+          <li>1 colher de sopa rasa de bicarbonato (bem rasa)</li>
+          <li>50 g de café solúvel</li>
+          <li>15 colheres de sopa de açúcar refinado</li>
+      </ul>
+
+</body>
+
+  </html>
