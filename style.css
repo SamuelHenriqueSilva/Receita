@@ -1,0 +1,15 @@
+#corpo {
+  background-color: #E0FFFF;
+}
+
+.titulo {
+  background-color: #ADD8E6;
+  font-size: 50px;
+  border-style: double;
+  border-radius: 10px;
+}
+
+#ingrediente {
+  font-size: 30px;
+  
+}
