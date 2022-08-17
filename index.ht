@@ -1,0 +1,27 @@
+  <!DOCTYPE html>
+  <html>
+
+  <head>
+      <link rel="stylesheet" href="style.css" />
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <title>Purê de Batata</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css"/>
+</head>
+
+  <body id="corpo">
+      <h1 class="titulo">PURÊ DE BATATA</h1>
+
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/QCEX1hKVXA8" title="Batatinha" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+      <p id="ingrediente">Ingredientes</p>
+      <ul id="ingredientes">
+          <li>1 kg de batata</li>
+          <li>1/2 xícara de leite</li>
+          <li>2 colheres (sopa) de margarina</li>
+          <li>sal a gosto</li>
+          <li>1 dente de alho espremido</li>
+      </ul>
+
+  <script type="text/javascript" src="js/script.js"></script>
+</body>
+
+  </html>
