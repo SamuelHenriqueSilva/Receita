@@ -13,3 +13,8 @@
   font-size: 30px;
   
 }
+
+#imagem {
+  border-style: double;
+  border-radius: 10px;
+}
